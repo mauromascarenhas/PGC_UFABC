@@ -1,0 +1,677 @@
+URIScraper (Error) Log File
+Date : 9 de set de 2019 23:32:44
+Selected language : en
+-----------------------------
+
+
+[ RANK ]
+URI Problem: 1812
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/1812/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 1818
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/1818/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 1950
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/1950/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 1995
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/1995/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 2105
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2105/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 2113
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2113/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 2209
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2209/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 2259
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2259/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 2266
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2266/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 2279
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2279/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 2282
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2282/2
+------------------------------------
+
+[ RANK ]
+URI Problem: 2283
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2283/2
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2285
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2285_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2286
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2286_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2287
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2287_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2288
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2288_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2304
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2304_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2305
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2305_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2306
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2306_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2307
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2307_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2308
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2308_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2309
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2309_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2320
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2320_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2327
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2327_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2328
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2328_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2332
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2332_en.html
+------------------------------------
+
+[ RANK ]
+URI Problem: 2352
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2352/2
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2366
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2366_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2367
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2367_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2368
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2368_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2376
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2376_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2377
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2377_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2389
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2389_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2396
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2396_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2397
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2397_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2398
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2398_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2399
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2399_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2405
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2405_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2406
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2406_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2407
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2407_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2415
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2415_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2416
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2416_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2417
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2417_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2425
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2425_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2426
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2426_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2427
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2427_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2435
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2435_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2436
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2436_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2445
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2445_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2446
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2446_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2447
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2447_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2457
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2457_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2458
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2458_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2459
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2459_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2460
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2460_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2470
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2470_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2471
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2471_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2472
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2472_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2473
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2473_en.html
+------------------------------------
+
+[ RANK ]
+URI Problem: 2602
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2602
+------------------------------------
+
+[ RANK ]
+URI Problem: 2603
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2603
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2604
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2604_en.html
+------------------------------------
+
+[ RANK ]
+URI Problem: 2604
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2604
+------------------------------------
+
+[ RANK ]
+URI Problem: 2605
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2605
+------------------------------------
+
+[ RANK ]
+URI Problem: 2606
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2606
+------------------------------------
+
+[ RANK ]
+URI Problem: 2607
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2607
+------------------------------------
+
+[ RANK ]
+URI Problem: 2608
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2608
+------------------------------------
+
+[ RANK ]
+URI Problem: 2609
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2609
+------------------------------------
+
+[ RANK ]
+URI Problem: 2610
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2610
+------------------------------------
+
+[ RANK ]
+URI Problem: 2611
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2611
+------------------------------------
+
+[ RANK ]
+URI Problem: 2612
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2612
+------------------------------------
+
+[ RANK ]
+URI Problem: 2613
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2613
+------------------------------------
+
+[ RANK ]
+URI Problem: 2614
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2614
+------------------------------------
+
+[ RANK ]
+URI Problem: 2615
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2615
+------------------------------------
+
+[ RANK ]
+URI Problem: 2616
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2616
+------------------------------------
+
+[ RANK ]
+URI Problem: 2617
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2617
+------------------------------------
+
+[ RANK ]
+URI Problem: 2618
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2618
+------------------------------------
+
+[ RANK ]
+URI Problem: 2619
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2619
+------------------------------------
+
+[ RANK ]
+URI Problem: 2620
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2620
+------------------------------------
+
+[ RANK ]
+URI Problem: 2621
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2621
+------------------------------------
+
+[ RANK ]
+URI Problem: 2622
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2622
+------------------------------------
+
+[ RANK ]
+URI Problem: 2623
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2623
+------------------------------------
+
+[ RANK ]
+URI Problem: 2624
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2624
+------------------------------------
+
+[ RANK ]
+URI Problem: 2625
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2625
+------------------------------------
+
+[ RANK ]
+URI Problem: 2645
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2645/2
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2694
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2694_en.html
+------------------------------------
+
+[ RANK ]
+URI Problem: 2737
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2737
+------------------------------------
+
+[ RANK ]
+URI Problem: 2738
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2738
+------------------------------------
+
+[ RANK ]
+URI Problem: 2739
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2739
+------------------------------------
+
+[ RANK ]
+URI Problem: 2740
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2740
+------------------------------------
+
+[ RANK ]
+URI Problem: 2741
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2741
+------------------------------------
+
+[ RANK ]
+URI Problem: 2742
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2742
+------------------------------------
+
+[ RANK ]
+URI Problem: 2743
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2743
+------------------------------------
+
+[ RANK ]
+URI Problem: 2744
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2744
+------------------------------------
+
+[ RANK ]
+URI Problem: 2745
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2745
+------------------------------------
+
+[ RANK ]
+URI Problem: 2746
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/judge/en/ranks/problem/2746
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2832
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2832_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2836
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2836_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2837
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2837_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2876
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2876_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2877
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2877_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2878
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2878_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2879
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2879_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2880
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2880_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2881
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2881_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2882
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2882_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2883
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2883_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2884
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2884_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2885
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2885_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2886
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2886_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2887
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2887_en.html
+------------------------------------
+
+[ MAIN ]
+URI Problem: 2888
+Message: HTTP error fetching URL
+Full error: org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://www.urionlinejudge.com.br/repository/UOJ_2888_en.html
+------------------------------------

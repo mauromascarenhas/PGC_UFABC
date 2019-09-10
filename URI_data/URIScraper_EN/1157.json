@@ -1,0 +1,1 @@
+{"output":"Write all positive divisors of N, one value per line.","input":"The input file contains an integer value.","level":1,"name":"Divisors I","has_images":false,"description":"Read an integer N and compute all its divisors.","id":"1157","category":"Beginner","statistics":{"level":"1 / 10","submissions":29650,"solved":24528,"ratio":"82.73%"}}

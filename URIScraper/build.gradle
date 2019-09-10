@@ -1,0 +1,29 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+
+mainClassName = 'URIScraper.Main'
+
+repositories {
+    jcenter()
+    mavenCentral()
+    mavenLocal()
+}
+
+run{
+    standardInput = System.in
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+}
+
+dependencies {
+    // jsoup HTML parser library @ https://jsoup.org/
+    implementation 'org.jsoup:jsoup:1.12.1'
+}
+
+dependencies{
+    // https://mvnrepository.com/artifact/org.json/json
+    implementation 'org.json:json:20180813'
+}

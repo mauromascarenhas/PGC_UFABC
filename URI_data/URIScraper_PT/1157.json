@@ -1,0 +1,1 @@
+{"output":"Escreva todos os divisores positivos de N, um valor por linha.","input":"O arquivo de entrada contém um valor inteiro.","level":1,"name":"Divisores I","has_images":false,"description":"Ler um número inteiro N e calcular todos os seus divisores.","id":"1157","category":"Iniciante","statistics":{"level":"1 / 10","submissions":29650,"solved":24528,"ratio":"82.73%"}}
